@@ -2,8 +2,6 @@
 
 Yeah. That might be the only link you need, but that'd make this too short. The **React Tools** portion seems to be a bit dated and certainly not exhaustive. A quick way to see if something is still maintained is to see when the last commit was. If it was months ago it's probably not worth using.
 
-![[CleanShot 2022-03-11 at 15.07.07.png]]
-
 ## YouTube
 
 - [Jack Herrington](https://www.youtube.com/c/JackHerrington) _Frontend_
