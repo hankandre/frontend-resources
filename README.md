@@ -1,8 +1,20 @@
+# Frontend Resources
+
+The success I have had in my career has come from standing on the shoulders of giants and I often get asked who I keep up with and how I stay up to date. Mostly it comes from observing; following folks on Twitter; signing up for various newsletters; or stumbling onto a `dependency` in a project that I didn't know about. When I find someone building something cool I find them on Twitter and follow them and, if they have a newsletter, I sign-up. The frontend community is pretty connected, meaning that if you follow one they'll often converse with or promote each other in public (primarily on Twitter) so you can get a lot of exposure just by checking in on folks now and again.
+
+This isn't meant to be exhaustive, obviously. There are tons of great people out there creating awesome tools and contributing that I'm just ignorant of. My hope is that these resources will get you learning and plugged into the community enough where you can start keeping up with trends, learning new tools, and hone your craft.
+
+Could this be an `awesome` list? Sure, I suppose, but I'm not really trying to be awesome, just help, and an `awesome` list implies a go-to reference for any given language, topic, stack, or whatever.
+
 ## [Awesome React](https://github.com/enaqx/awesome-react)
 
 Yeah. That might be the only link you need, but that'd make this too short. The **React Tools** portion seems to be a bit dated and certainly not exhaustive. A quick way to see if something is still maintained is to see when the last commit was. If it was months ago it's probably not worth using.
 
-## YouTube
+## Courses
+
+There's a lot of content out there and some awesome free resources for learning, in my opinion. If you're looking for more depth you'll probably want to sign-up for a paid course. Keep your eyes peeled, most folks will do a discount once or twice a year. You can definitely expect to get a deal around the holidays.
+
+### YouTube
 
 - [Jack Herrington](https://www.youtube.com/c/JackHerrington) _Frontend_
   - Has great content. Half of his videos explore new libraries, half are tips/tricks on using well known ones (like React) better.
@@ -18,6 +30,10 @@ Yeah. That might be the only link you need, but that'd make this too short. The 
   - Focused on helping people get jobs as Engineers/Developers. A lot of it frontend focused. Doesn't seem to have a ton of content on UI libraries like React, Vue, Svelte, Angular, etc.
 - [Ben Awad](https://www.youtube.com/c/BenAwad97) _Frontend (Mostly)_
   - Not specifically frontend focused but has some really good content. I generally agree with his rants, too. Check out his [Practical React](https://youtube.com/playlist?list=PLN3n1USn4xlntqksY83W3997mmQPrUmqM) course. It' s pretty, pretty, pretty, good.
+
+### Paid
+
+_Work in progress_.
 
 ## Blogs
 
@@ -64,3 +80,12 @@ Yeah. That might be the only link you need, but that'd make this too short. The 
   - 😅 another React core contributor...
 - [Ives van Hoorne](https://twitter.com/CompuIves)
   - The creator of [codesandbox](https://codesandbox.io)
+
+## Newsletters
+
+- [Cassidy Williams'](https://cassidoo.co/newsletter)
+  - A weekly newsletter that is pretty short. Often contains a couple of cool libraries that she's found. Often has an interview question to help practice.
+- [React Status](https://react.statuscode.com/)
+  - Another weekly newsletter that focuses specifically on React.
+- [Josh Comeau](https://joshwcomeau.com) _Sign-up at the bottom of the homepage_
+  - Let's you know when he's published new content on his site. Also has some newsletter-only content he creates.
