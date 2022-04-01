@@ -115,6 +115,10 @@ I used to voraciously consume blog posts but don't as much anymore. These are th
   - Have I mentioned him already?
 - [Scott Tolinksi](https://twitter.com/stolinski)
   - Also may have mentioned him already...
+- [Jem Young](https://twitter.com/JemYoung)
+  - Jem is good people. He has some courses on Frontend Masters and is, as of this writing, an Engineering Manager at Netflix.
+- [Brian Londsdorf](https://twitter.com/drboolean)
+  - I first encountered Brian on Egghead with his [Professor Frisby](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) course. He makes it much more entertaining to learn with his stop-action animation. He's very much into Functional Programming and some of the things he says are Greek to me, but he's smart!
 
 ## Newsletters
 
@@ -126,3 +130,34 @@ I used to voraciously consume blog posts but don't as much anymore. These are th
   - Let's you know when he's published new content on his site. Also has some newsletter-only content he creates.
 - [CSS Weekly](https://css-weekly.com/)
   - CSS get knocked a lot by everyone but is much more powerful that most people realize and not keeping up with it risks puting you in a position where you're still using `float` to position content, or harming the accessibility of a website. Do yourself a favor and play with it every now and then like you might with JavaScript.
+
+## Podcasts
+
+I'm not an audible learner and podcasts don't typically focus on how to learn something, but it can be a good way to keep up to date.
+
+- [Frontend Happy Hour](https://www.frontendhappyhour.com/)
+  - A bunch of engineers at Netflix sit around with drinks and usually invite someone on to chat. Follow whoever that guest is on Twitter. Topics tend to be more general but the format makes it feel like you're eavesdropping on some geniuses, 'cause you are.
+- [Syntax](https://syntax.fm)
+  - Wes Bos and Scott Tolinski's podcast. Usually pretty high-level. Every now and then they'll do an episode focusing on a particular library.
+- [JS Party](https://changelog.com/jsparty)
+  - Put on by the folks who do [The Changelog](https://changelog.com/podcast)
+- [Code Newbie](https://www.ladybug.dev/)
+  - I've listened to this a couple of times. It was really encouraging and helpful to hear about people's journeys and struggles. I definitely helps you to not feel alone.
+- [Ladybug podcast](https://www.ladybug.dev/)
+  - This was recommended to me but I've never had the chance to listen to it. It looks like there's some interesting stuff there.
+- [The Intern](https://theintern.fm/) I got a "Not secure" warning when navigating to the site. It's admittedly a little old. It's from 2016.
+  - A brief series put on by Allison Behringer and [Betaworks](https://www.betaworks-studios.com/) that explores the Tech industry from an intern's perspective.
+
+## Books
+
+I've found books helpful when trying to get depth but, to be honest, consuming hundreds of pages on dry technical subjects is not really my learning style. My suggestion is to get acquainted with the subject matter first, at least at a high level, and then pickup a book.
+
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by _Kyle Simpson_
+  - I purchased the entire physical copies of the set; six months later Kyle Simpson announced a new edition was in the works. I've read two of 'em and I'm counting it as a win.
+- [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/) by _Brian Lonsdorf_
+  - Prepare to have your mind turned into butter and offered back up to you. This is book is not for the faint of heart, although Brian does a great job of writing, I had a hard time following.
+
+## Other
+
+- [tc39 proposals](https://github.com/tc39/proposals)
+  - Every now and then I just look through this to see what might be in the pipeline in terms of new syntax or features to JavaScript. The biggest one in 2022, in my opinion, is the new [`Temporal`](https://github.com/tc39/proposal-temporal) API. 
