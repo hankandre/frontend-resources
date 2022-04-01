@@ -86,7 +86,7 @@ I used to voraciously consume blog posts but don't as much anymore. These are th
 - [Guillermo Rauch](https://twitter.com/rauchg)
   - Worth keeping up with.
 - [Dan Abramov](https://twitter.com/dan_abramov)
-  - I refer to him as, "The Dan," because he has this presence, whether he likes it or not, within the JavaScript world that is sorta like the Godfather. I also really like that a lot of his focus has been less React-focused and more JavaScript-focused.
+  - I refer to him as, "The Dan," because he has this presence, whether he likes it or not, within the JavaScript world that is sorta like the Godfather. I also really like that a lot of his content isn't explicitly React-focused. He includes a lot on vanilla JS, too.
 - [Sebastian Markbåge](https://twitter.com/sebmarkbage)
   - A React core contributor.
 - [Evan You](https://twitter.com/youyuxi)
