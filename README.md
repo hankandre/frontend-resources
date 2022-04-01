@@ -20,7 +20,7 @@ There's a lot of content out there and some awesome free resources for learning,
 
 - [Jack Herrington](https://www.youtube.com/c/JackHerrington) _Frontend_
   - Has great content. Half of his videos explore new libraries, half are tips/tricks on using well known ones (like React) better.
-- [Dan Abramov](https://www.youtube.com/c/DanAbramov8) _React_
+- [Dan Abramov](https://www.youtube.com/c/DanAbramov8) _Frontend_
   - A React core team member and the creator of Redux. Focuses on longer-form videos where he builds something from scratch, or with React.
 - [Kent C. Dodds](https://www.youtube.com/c/KentCDodds-vids) _React_
   - A pillar of the React community and the creator of [testing library](https://testing-library.com/). He just sarted at [Remix](https://remix.run/), a tool created by a former React core-team member (Michael Jackson) and another pillar of the community (Ryan Florence), so his most recent content is focused there.
@@ -35,7 +35,7 @@ There's a lot of content out there and some awesome free resources for learning,
 
 ### Paid
 
-Paid courses or learning platforms for coding can be really expensive. Honestly, I haven't taken any Udemy courses for Frontend tasks. The last course I really put effort into was a [Golang](https://www.udemy.com/course/go-programming-language/) course I bought 3 years ago. If you find courses on Udemy that seem helpful to you, by all means take 'em. My old bootcamp instructor [Scott Bromander](https://www.udemy.com/course/web-development-concepts-for-everyone/) recently published a course that I would shamelessly endorse.
+Paid courses or learning platforms for coding can be really expensive. Honestly, I haven't taken any Udemy courses for the Frontend. The last course I really put effort into was on Udemy was a [Golang](https://www.udemy.com/course/go-programming-language/) course I bought 3 years ago. If you find some that seem helpful to you, by all means take 'em. My old bootcamp instructor [Scott Bromander](https://www.udemy.com/course/web-development-concepts-for-everyone/) recently published a course that I would shamelessly endorse.
 
 I'd recommend researching any paid courses you find interesting first and doing what Scott Young (the author of _Ultralearning_) calls [Metalearning](https://www.scotthyoung.com/blog/2013/09/19/metalearning/). That way you can make sure that your money is well-spent. Some of the recommendations below are subscriptions so be aware that you could be signing up for hundreds of dollars a year.
 
