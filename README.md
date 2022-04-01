@@ -118,7 +118,7 @@ I used to voraciously consume blog posts but don't as much anymore. These are th
 
 ## Newsletters
 
-- [Cassidy Williams'](https://cassidoo.co/newsletter)
+- [Cassidy Williams](https://cassidoo.co/newsletter)
   - A weekly newsletter that is pretty short. Often contains a couple of cool libraries that she's found. Often has an interview question to help practice.
 - [React Status](https://react.statuscode.com/)
   - Another weekly newsletter that focuses specifically on React.
