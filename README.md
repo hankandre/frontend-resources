@@ -20,7 +20,7 @@ There's a lot of content out there and some awesome free resources for learning,
 
 - [Jack Herrington](https://www.youtube.com/c/JackHerrington) _Frontend_
   - Has great content. Half of his videos explore new libraries, half are tips/tricks on using well known ones (like React) better.
-- [Dan Abramov](https://www.youtube.com/c/DanAbramov8) _React_
+- [Dan Abramov](https://www.youtube.com/c/DanAbramov8) _Frontend_
   - A React core team member and the creator of Redux. Focuses on longer-form videos where he builds something from scratch, or with React.
 - [Kent C. Dodds](https://www.youtube.com/c/KentCDodds-vids) _React_
   - A pillar of the React community and the creator of [testing library](https://testing-library.com/). He just sarted at [Remix](https://remix.run/), a tool created by a former React core-team member (Michael Jackson) and another pillar of the community (Ryan Florence), so his most recent content is focused there.
