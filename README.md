@@ -35,7 +35,7 @@ There's a lot of content out there and some awesome free resources for learning,
 
 ### Paid
 
-Paid courses or learning platforms for coding can be really expensive. Honestly, I haven't taken any Udemy courses for the Frontend. The last course I really put effort into was on Udemy was a [Golang](https://www.udemy.com/course/go-programming-language/) course I bought 3 years ago. If you find some that seem helpful to you, by all means take 'em. My old bootcamp instructor [Scott Bromander](https://www.udemy.com/course/web-development-concepts-for-everyone/) recently published a course that I would shamelessly endorse.
+Paid courses or learning platforms for coding can be really expensive. Honestly, I haven't taken any Udemy courses for the Frontend. The last course I really put effort into that was on Udemy was a [Golang](https://www.udemy.com/course/go-programming-language/) course I bought 3 years ago. If you find some that seem helpful to you, by all means take 'em. My old bootcamp instructor [Scott Bromander](https://www.udemy.com/course/web-development-concepts-for-everyone/) recently published a course that I would shamelessly endorse.
 
 I'd recommend researching any paid courses you find interesting first and doing what Scott Young (the author of _Ultralearning_) calls [Metalearning](https://www.scotthyoung.com/blog/2013/09/19/metalearning/). That way you can make sure that your money is well-spent. Some of the recommendations below are subscriptions so be aware that you could be signing up for hundreds of dollars a year.
 
@@ -118,7 +118,7 @@ I used to voraciously consume blog posts but don't as much anymore. These are th
 - [Jem Young](https://twitter.com/JemYoung)
   - Jem is good people. He has some courses on Frontend Masters and is, as of this writing, an Engineering Manager at Netflix.
 - [Brian Londsdorf](https://twitter.com/drboolean)
-  - I first encountered Brian on Egghead with his [Professor Frisby](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) course. He makes it much more entertaining to learn with his stop-action animation. He's very much into Functional Programming and some of the things he says are Greek to me, but he's smart!
+  - I first encountered Brian on Egghead with his [Professor Frisby](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) course. He makes it much more entertaining to learn with his stop-action animation. He's very much into Functional Programming and some of the things he says are above my head, but he's a brain!
 
 ## Newsletters
 
