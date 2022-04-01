@@ -161,3 +161,5 @@ I've found books helpful when trying to get depth but, to be honest, consuming h
 
 - [tc39 proposals](https://github.com/tc39/proposals)
   - Every now and then I just look through this to see what might be in the pipeline in terms of new syntax or features to JavaScript. The biggest one in 2022, in my opinion, is the new [`Temporal`](https://github.com/tc39/proposal-temporal) API. 
+- [Panda](https://chrome.google.com/webstore/detail/panda-5-your-favorite-web/haafibkemckmbknhfkiiniobjpgkebko?hl=en)
+  - Another one of those Chrome apps that turns a new tab into something else. Panda aggregates a bunch of different news sources into a single place, sorta like an RSS reader. It's been one of those things that has helped expose me to new tech because you can't ignore it as easy as your average RSS reader. It's also focused specifically on tech and UX, which is pretty relevant to us Frontend folk.
