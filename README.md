@@ -23,7 +23,7 @@ There's a lot of content out there and some awesome free resources for learning,
 - [Dan Abramov](https://www.youtube.com/c/DanAbramov8) _Frontend_
   - A React core team member and the creator of Redux. Focuses on longer-form videos where he builds something from scratch, or with React.
 - [Kent C. Dodds](https://www.youtube.com/c/KentCDodds-vids) _React_
-  - A pillar of the React community and the creator of [testing library](https://testing-library.com/). He just sarted at [Remix](https://remix.run/), a tool created by a former React core-team member (Michael Jackson) and another pillar of the community (Ryan Florence), so his most recent content is focused there.
+  - A pillar of the React community and the creator of [testing library](https://testing-library.com/). He just started at [Remix](https://remix.run/), a tool created by a former React core-team member (Michael Jackson) and another pillar of the community (Ryan Florence), so his most recent content is focused there.
 - [Vercel](https://www.youtube.com/c/VercelHQ/videos) _Frontend_
   - The creators of [Next.js](https://nextjs.org/). Many of their videos are focused on their own open sourced libraries, but nearly all of their open sourced stuff turns heads, so worth checking out.
 - [freeCodeCamp's React Course](https://youtu.be/bMknfKXIFA8) _React_
