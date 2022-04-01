@@ -33,7 +33,20 @@ There's a lot of content out there and some awesome free resources for learning,
 
 ### Paid
 
-_Work in progress_.
+Paid courses or learning platforms for coding can be really expensive. Honestly, I haven't taken any Udemy courses for Frontend tasks. The last course I really put effort into was a [Golang](https://www.udemy.com/course/go-programming-language/) course I bought 3 years ago. If you find courses on Udemy that seem helpful to you, by all means take 'em. My old bootcamp instructor [Scott Bromander](https://www.udemy.com/course/web-development-concepts-for-everyone/) recently published a course that I would shamelessly endorse.
+
+I'd recommend researching any paid courses you find interesting first and doing what Scott Young (the author of _Ultralearning_) calls [Metalearning](https://www.scotthyoung.com/blog/2013/09/19/metalearning/). That way you can make sure that your money is well-spent. Some of the recommendations below are subscriptions so be aware that you could be signing up for hundreds of dollars a year.
+
+- [Just JavaScript](https://justjavascript.com)
+  - A package of content that is meant to help you understand JavaScript better. The first "episode" is free when you provide your email and name, and then the rest of the package has a cost.
+- [Epic React](https://epicreact.dev/)
+  - A course by Kent C. Dodds that takes you from the basics of React, to advanced stuff. This puppy is _expensive_, but has some really good content. Kent works from the ground-up. I'd recommend considering this when you want to "level-up" your React game.
+- [Testing JavaScript](https://testingjavascript.com/)
+  - Another course by Kent C. Dodds that focuses on testing. Also not cheap. I recommend taking this once you've learned how to test and are wondering how you might improve your tests.
+- [Egghead.io](https://egghead.io/) _subscription_
+  - I first discovered Egghead when Dan Abramov published his intro to Redux course on it. There are definitely some good courses on it. It is a little expensive.
+- [Frontend Masters](https://frontendmasters.com/) _subscription_
+  - I may be biased since Frontend Masters (FEM) is based in Minneapolis, but Marc, the CEO of FEM, is awesome and the quality of the content is top notch. That's reflected in the price, though. If you have a learning budget at your workplace definitely ask if you can expense the subscription (and sign-up with your personal email address 😉).
 
 ## Blogs
 
@@ -45,6 +58,10 @@ _Work in progress_.
   - She has some really good content and I consider her a go-to for CSS or accessibility (a11y).
 - [Guillermo Rauch](https://rauchg.com/)
   - The founder of [Vercel](https://vercel.com). Although he blogs like once every six months it tends to be prescient when he does.
+- [Overreacted](https://overreacted.io/)
+  - Dan Abramov's blog that explains some of the stuff that appears to be magic in React. Also does some other plain JavaScript writing.
+- [Axel Rauschmayer](https://2ality.com/)
+  - Super technical but a really helpful resource as you begin to develop a more robust understanding of JavaScript. Often explains some of the forthcoming features to the language, if you want to know the new hotness.
 
 ## Twitter
 
@@ -56,6 +73,8 @@ _Work in progress_.
   - A former core contributor to React. Created [react-router](https://reactrouter.com/) with Ryan Florence. The other co-founder of [remix](https://remix.run)
 - [Guillermo Rauch](https://twitter.com/rauchg)
   - Worth keeping up with.
+- [Dan Abramov](https://twitter.com/dan_abramov)
+  - I refer to him as, "The Dan," because he has this presence, whether he likes it or not, within the JavaScript ecosystem. I also really like that a lot of his focus has been less React-focused and more JavaScript-focused.
 - [Sebastian Markbåge](https://twitter.com/sebmarkbage)
   - A React core contributor.
 - [Evan You](https://twitter.com/youyuxi)
