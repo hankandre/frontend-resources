@@ -118,7 +118,7 @@ I used to voraciously consume blog posts but don't as much anymore. These are th
 - [Jem Young](https://twitter.com/JemYoung)
   - Jem is good people. He has some courses on Frontend Masters and is, as of this writing, an Engineering Manager at Netflix.
 - [Brian Londsdorf](https://twitter.com/drboolean)
-  - I first encountered Brian on Egghead with his [Professor Frisby](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) course. He makes it much more entertaining to learn with his stop-action animation. He's very much into Functional Programming and some of the things he says are Greek to me, but he's smart!
+  - I first encountered Brian on Egghead with his [Professor Frisby](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) course. He makes it much more entertaining to learn with his stop-action animation. He's very much into Functional Programming and some of the things he says are above my head, but he's a brain!
 
 ## Newsletters
 
