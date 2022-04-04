@@ -142,10 +142,10 @@ I'm not an audible learner and podcasts don't typically focus on how to learn so
 - [JS Party](https://changelog.com/jsparty)
   - Put on by the folks who do [The Changelog](https://changelog.com/podcast)
 - [Code Newbie](https://www.ladybug.dev/)
-  - I've listened to this a couple of times. It was really encouraging and helpful to hear about people's journeys and struggles. I definitely helps you to not feel alone.
+  - I've listened to this a couple of times. It was really encouraging and helpful to hear about people's journeys and struggles. I think it's a great resource when learning, to recognize that your experiences are largely shared, and fight the sense of isolation.
 - [Ladybug podcast](https://www.ladybug.dev/)
   - This was recommended to me but I've never had the chance to listen to it. It looks like there's some interesting stuff there.
-- [The Intern](https://theintern.fm/) I got a "Not secure" warning when navigating to the site. It's admittedly a little old. It's from 2016.
+- [The Intern](https://theintern.fm/) I got a "Not secure" warning when navigating to the site. It's admittedly a little old, from 2016.
   - A brief series put on by Allison Behringer and [Betaworks](https://www.betaworks-studios.com/) that explores the Tech industry from an intern's perspective.
 
 ## Books
