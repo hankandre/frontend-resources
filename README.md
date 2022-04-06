@@ -74,6 +74,8 @@ I used to voraciously consume blog posts but don't as much anymore. These are th
   - Super technical but a really helpful resource as you begin to develop a more robust understanding of JavaScript. Often explains some of the forthcoming features to the language, if you want to know the new hotness.
 - [Wes Bos](https://wesbos.com/blog)
   - I didn't read Wes' blog as regularly as some of the others for one reason or another. I think because many of the others have a narrower focus, perhaps? Definitely worth checking out.
+- [EchoJS](https://www.echojs.com/)
+  - I've actually discovered a lot of new cool libraries through Echo.
 
 ## Twitter
 
@@ -86,23 +88,23 @@ I used to voraciously consume blog posts but don't as much anymore. These are th
 - [Guillermo Rauch](https://twitter.com/rauchg)
   - Worth keeping up with.
 - [Dan Abramov](https://twitter.com/dan_abramov)
-  - I refer to him as, "The Dan," because he has this presence, whether he likes it or not, within the JavaScript world that is sorta like the Godfather. I also really like that a lot of his content isn't explicitly React-focused. He includes a lot on vanilla JS, too.
+  - I refer to him as, "The Dan," because he has this presence, whether he likes it or not, within the JavaScript world that is sorta like The Godfather. I also really like that a lot of his content isn't explicitly React-focused. He includes a lot on vanilla JS, too.
 - [Sebastian Markbåge](https://twitter.com/sebmarkbage)
   - A React core contributor.
 - [Evan You](https://twitter.com/youyuxi)
   - The creator of [Vue](https://vuejs.org), a popular UI library similar to React, and [Vite](https://vitejs.dev/) a build tool which will probably end up replacing [Webpack](https://webpack.js.org/) someday.
 - [Sarah Drasner](https://twitter.com/sarah_edo)
-  - Is now a director of Web at Google and is one of those people who knows everyone. People she mentions are people to follow.
+  - Is now a Director of Web at Google and is one of those people who knows everyone. She has some amazing content on Web illustration and SVGs (Scalable Vector Graphics). People she mentions are people to follow.
 - [Addy Osmani](https://twitter.com/addyosmani)
-  - Now working as an Engineering Manager at Google. Very connected and someone worth knowing.
+  - Now working as an Engineering Manager at Google. I first stumbled onto him when he wrote a [case study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154) on Pinterest's migration to a PWA (Progressive Web App). Very connected and someone worth knowing.
 - [Sara Soueidan](https://twitter.com/SaraSoueidan)
   - Like her blog, great content on accessibility (a11y).
 - [Paul Irish](https://twitter.com/paul_irish)
-  - A performance engineer at Google.
+  - A performance engineer at Google. Often posts Google Chrome related content.
 - [Chris Coyier](https://twitter.com/chriscoyier)
   - The creator of [CSS-Tricks](https://css-tricks.com)
 - [Sebastian McKenzie](https://twitter.com/sebmck)
-  - The creator of Babel.js. Has gone on since to create [ Rome.js ](https://rome.tools/). The rumor (unconfirmed) is that he wrote Babel when he was in his teens.
+  - The creator of Babel.js. Has gone on since to create [Rome.js](https://rome.tools/). The rumor (unconfirmed) is that he wrote Babel when he was in his teens.
 - [Cassidy Williams](https://twitter.com/cassidoo)
   - Has some great content and a newsletter. She used to work with Ryan Florence consulting on React stuffs.
 - [Andrew Clark](https://twitter.com/acdlite)
@@ -160,6 +162,6 @@ I've found books helpful when trying to get depth but, to be honest, consuming h
 ## Other
 
 - [tc39 proposals](https://github.com/tc39/proposals)
-  - Every now and then I just look through this to see what might be in the pipeline in terms of new syntax or features to JavaScript. The biggest one in 2022, in my opinion, is the new [`Temporal`](https://github.com/tc39/proposal-temporal) API. 
+  - Every now and then I just look through this to see what might be in the pipeline in terms of new syntax or features to JavaScript. The biggest one in 2022, in my opinion, is the new [`Temporal`](https://github.com/tc39/proposal-temporal) API.
 - [Panda](https://chrome.google.com/webstore/detail/panda-5-your-favorite-web/haafibkemckmbknhfkiiniobjpgkebko?hl=en)
   - Another one of those Chrome apps that turns a new tab into something else. Panda aggregates a bunch of different news sources into a single place, sorta like an RSS reader. It's been one of those things that has helped expose me to new tech because you can't ignore it as easy as your average RSS reader. It's also focused specifically on tech and UX, which is pretty relevant to us Frontend folk.
